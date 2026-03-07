@@ -1,0 +1,5 @@
+New Features
+- Added new gperm commands, gperm is by default enabled
+
+Bug Fixes
+- updated *update* command
